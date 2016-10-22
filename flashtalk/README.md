@@ -5,10 +5,10 @@ Among scientific publications, a first-mover advantage is observable. This means
 
 #Available resources: 
 Basically, two kinds of resources are available, currently, to analyze the problem described above:
-1. Scientific papers: 
-  a. NEWMAN M.E.J., The first-mover advantage in scientific publication, 25th June 2009
-  b. LIEBERMANN M.B., MONTGOMERY D.B., First-Mover Advantage, Strategic Management Journal, Vol. 9, 41-58 (1988)
-2. Data sets (will be checked soon)
+- Scientific papers: 
+  - NEWMAN M.E.J., The first-mover advantage in scientific publication, 25th June 2009
+  - LIEBERMANN M.B., MONTGOMERY D.B., First-Mover Advantage, Strategic Management Journal, Vol. 9, 41-58 (1988)
+- Data sets (will be checked soon)
 
 We will use different resources to implement our model. Additional resources may be used to answer our further research questions.
 

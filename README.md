@@ -40,7 +40,7 @@ We will use different resources to implement our model. Additional resources may
 
 ## Research Methods
 
-(Cellular Automata, Agent-Based Model, Continuous Modeling...) (If you are not sure here: 1. Consult your colleagues, 2. ask the teachers, 3. remember that you can change it afterwards)
+Continuous Modeling
 
 
 ## Other

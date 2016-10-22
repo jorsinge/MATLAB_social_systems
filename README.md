@@ -17,8 +17,8 @@ The resources mentioned above will be used to implement a simulation of the firs
 
 Comparing, the data to the theoretical predictions will allow us to determine in which fields the first-mover advantage is more observable than in others. This may have certain causes which can be dependent or independent on the specific field or can be due to general reasons. Basically, our project can be focused on two research questions:
 
-    In which scientific fields can the first-mover advantage be observed?
-    Why is the first-mover advantage predominant in certain fields as opposed to others? Considering the second proposed question, we would like to focus on certain fields which are relevant to our degree programs and that are new enough for comprehensive data to be found (e.g. gravitational waves).
+- In which scientific fields can the first-mover advantage be observed?
+- Why is the first-mover advantage predominant in certain fields as opposed to others? Considering the second proposed question, we would like to focus on certain fields which are relevant to our degree programs and that are new enough for comprehensive data to be found (e.g. gravitational waves).
 
 
 ## Expected Results
@@ -30,10 +30,10 @@ Comparing, the data to the theoretical predictions will allow us to determine in
 
 Basically, two kinds of resources are available, currently, to analyze the problem described above:
 
-    Scientific papers:
-        NEWMAN M.E.J., The first-mover advantage in scientific publication, 25th June 2009
-        LIEBERMANN M.B., MONTGOMERY D.B., First-Mover Advantage, Strategic Management Journal, Vol. 9, 41-58 (1988)
-    Data sets (will be checked soon)
+Scientific papers:
+- NEWMAN M.E.J., The first-mover advantage in scientific publication, 25th June 2009
+- LIEBERMANN M.B., MONTGOMERY D.B., First-Mover Advantage, Strategic Management Journal, Vol. 9, 41-58 (1988)
+- Data sets (will be checked soon)
 
 We will use different resources to implement our model. Additional resources may be used to answer our further research questions.
 

@@ -33,6 +33,7 @@ Basically, two kinds of resources are available, currently, to analyze the probl
 Scientific papers:
 - [1] NEWMAN M.E.J., The first-mover advantage in scientific publication, 25th June 2009
 - [2] LIEBERMANN M.B., MONTGOMERY D.B., First-Mover Advantage, Strategic Management Journal, Vol. 9, 41-58 (1988)
+
 Data regarding the number of citations that papers received over the years.
 
 We will use different resources to implement our model. Additional resources may be used to answer our further research questions.
